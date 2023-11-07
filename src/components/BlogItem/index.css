@@ -1,0 +1,18 @@
+.Harsha {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 30px;
+  align-items: center;
+  border-style: solid;
+  border-radius: 1px;
+  padding: 15px;
+}
+.h1 {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+.Ti {
+  display: flex;
+  flex-direction: row;
+}
